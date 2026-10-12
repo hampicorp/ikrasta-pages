@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /manager/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /manager/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /manager/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /manager/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /manager/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /manager/
+
+Sitemap: https://ikrasta.ru/sitemap.xml

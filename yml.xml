@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12T09:08:41+00:00">
+  <shop>
+    <name>IKRASTA</name>
+    <company>IKRASTA</company>
+    <url>https://ikrasta.ru/</url>
+    <currencies><currency id="RUR" rate="1"/></currencies>
+    <categories><category id="1">Икра щуки</category></categories>
+    <offers>
+      <offer id="V00029" available="true">
+        <url>https://ikrasta.ru/ikra-shchuki-astrakhanskaya-112-g</url>
+        <price>1100</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://ikrasta.ru/ikrasta-hero.png</picture>
+        <name>Икра щуки «Царская», 112 г</name>
+        <vendor>IKRASTA</vendor>
+        <vendorCode>V00029</vendorCode>
+        <description>Натуральная астраханская икра щуки. Состав: икра щуки, соль. Доставка по России.</description>
+        <param name="Вес" unit="г">112</param>
+        <param name="Происхождение">Астраханская область, Россия</param>
+        <sales_notes>Заказ: +7 967 822-90-79 или MAX https://max.ru/se13854268_bot?start=site_order</sales_notes>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
